@@ -18,24 +18,6 @@ pinned: false
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-CNN%20%2B%20BiLSTM%20%2B%20Attention-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-
-# 🤖 Live Demo
-
-Try UPI Sentinel Live:
-https://deemonduck-upi-sentinel.hf.space
-
-The application is publicly deployed on Hugging Face Spaces and can be tested directly from the browser without any local setup.
-
-Features Available in the Demo
-
-* Real-time fraud prediction
-* Sequence-aware transaction analysis
-* Interactive Streamlit dashboard
-* FastAPI-powered inference pipeline
-
----
-
 # 📌 Overview
 
 UPI Sentinel is a sequence-based fraud detection system designed to analyze contextual transaction behavior instead of evaluating transactions independently.
@@ -354,7 +336,7 @@ This project highlights several real-world machine learning challenges:
 
 # 👨‍💻 Author
 
-Ridham Taneja
+Aditya Gupta
 
 AI/ML Engineer • Deep Learning Enthusiast • Python Developer
 
